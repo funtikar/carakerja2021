@@ -1,0 +1,1 @@
+To import the project, open GMS2, select "Import" (or File -> Import Project) and select the .yyz file given in this folder.
